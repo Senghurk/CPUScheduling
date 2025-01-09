@@ -56,14 +56,3 @@ This project implements a CPU scheduling simulator with support for the **First-
 - **`displayGanttChart()`**: Displays the Gantt chart for process execution.
 - **`calculateAverageWaitingTime()`**: Calculates the average waiting time for all processes.
 
-## Example
-
-### Input:
-
-- Number of processes: 4
-- Burst times: [5, 8, 3, 6]
-- Algorithm: Round Robin
-- Time Quantum: 4
-
-### Output:
-
